@@ -4,5 +4,8 @@
   - Github사용방법
   - 안드로이드앱프로그래밍
   - 앱기획
+
+
+ <img width="200" height="300" src="./png/dog.jpg"></img>
  
 
