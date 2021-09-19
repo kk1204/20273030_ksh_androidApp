@@ -7,6 +7,10 @@
 
 
  <img width="200" height="300" src="./png/dog.jpg"></img>
- 
+
  <img width="" height="" src="./png/20273030_02.png"></img>
 
+## 3주차 과제
+
+ <img width="" height="" src="./png/20273030_03-1.JPG"></img>
+ <img width="" height="" src="./png/20273030_03-2.JPG"></img>
