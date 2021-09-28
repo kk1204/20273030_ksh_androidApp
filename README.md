@@ -6,7 +6,7 @@
   - 앱기획
 
 
- <img width="200" height="300" src="./png/dog.jpg"></img>
+ <img width="300" height="300" src="./png/dog.jpg"></img>
 
  <img width="" height="" src="./png/20273030_02.png"></img>
 
